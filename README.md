@@ -66,6 +66,17 @@ rest-api-testing-portfolio/
 
 ## Project Status
 
+The complete Postman collection was executed successfully using the Postman Collection Runner.
+
+| Metric | Result |
+|---|---:|
+| Requests executed | 7 |
+| Assertions passed | 31 |
+| Failed assertions | 0 |
+
+**Execution status:** PASS
+
+All seven API requests completed successfully, and all 31 test assertions passed.
 Completed initial API testing collection with positive and negative scenarios and automated JavaScript assertions.
 
 **Note:** JSONPlaceholder simulates data creation, updates, and deletion. These operations do not permanently modify the sample data.
