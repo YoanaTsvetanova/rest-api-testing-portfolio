@@ -50,6 +50,8 @@ rest-api-testing-portfolio/
 │   └── collections/
 │       ├── README.md
 │       └── JSONPlaceholder_API_Testing.postman_collection.json
+├── test-cases/
+├── test-evidence/
 └── README.md
 ```
 
